@@ -1,6 +1,4 @@
-## Desenvolvido por [Arthur Mendes Cunha](https://github.com/mendesarthur)
-
-# Projeto webpack
+# Aulas webpack
 
 <img src= "./img/webpack-project.png" width= "640px">
 
